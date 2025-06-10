@@ -197,3 +197,5 @@ git push
 
 ## dev branch add
 git checkout dev
+git branch
+git merge master
