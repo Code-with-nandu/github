@@ -193,3 +193,7 @@ git branch -M master
 git push -u origin master
 
 📤 15. Push First Time (After init)
+git push
+
+## dev branch add
+git checkout dev
