@@ -186,3 +186,10 @@ Then click "Create repository"
 
 
 
+## push an existing repository from the command line
+git remote add origin git@github.com:Code-with-nandu/github.git
+git remote -v
+git branch -M master
+git push -u origin master
+
+📤 15. Push First Time (After init)
